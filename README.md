@@ -25,5 +25,6 @@ Conducted a comprehensive data analysis of an insurance company's claims, polici
 - Identified key policy segments driving revenue and regions with high claim settlements.
 - Provided actionable insights for optimizing policy pricing, improving claim processing efficiency, and enhancing customer retention strategies.
 - Helped the company refine marketing strategies by identifying top-performing policy types and customer demographics.
-Skills:
+
+## Skills:
 Power BI, data visualization, Excel, business analytics, claims processing analysis, and dashboard design.
